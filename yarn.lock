@@ -3229,6 +3229,13 @@ whatwg-url@^10.0.0:
     tr46 "^3.0.0"
     webidl-conversions "^7.0.0"
 
+"whatwg-url@https://github.com/juhoha/whatwg-url":
+  version "11.0.0"
+  resolved "https://github.com/juhoha/whatwg-url#e566b5aa4df4e0012bc2b7a29ed4145bf34d14f0"
+  dependencies:
+    tr46 "^3.0.0"
+    webidl-conversions "^7.0.0"
+
 which-boxed-primitive@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz#13757bc89b209b049fe5d86430e21cf40a89a8e6"
